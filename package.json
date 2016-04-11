@@ -1,0 +1,39 @@
+{
+  "name": "tpl",
+  "description": "A very simple javascript template engine.",
+  "version": "0.2.1",
+  "homepage": "http://github.com/kaelzhang/tpl",
+  "author": {
+    "name": "Kael",
+    "email": "i@kael.me"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:kaelzhang/tpl.git"
+  },
+  "bugs": {
+    "url": ""
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "/blob/master/LICENSE-MIT"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.6.0"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "keywords": [
+    "tpl",
+    "template",
+    "template engine",
+    "engine",
+    "embed",
+    "javascript",
+    "js"
+  ],
+  "main": "index.js"
+}
